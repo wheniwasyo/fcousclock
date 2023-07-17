@@ -10,4 +10,4 @@ def pomodoro_timer(minutes):
         seconds -= 1
     print("专注时间结束！")
 
-pomodoro_timer(25)  # 设置专注时间为25分钟
+pomodoro_timer(25)  # 设置专注时间为25分
